@@ -1,0 +1,57 @@
+* {
+    padding: 0;
+    margin: 0;
+    margin-left: 0;
+    margin-right: 0;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+body {
+    background-image: url(./img/certa.jpg);
+}
+
+.container h2 {
+    color: rgb(102, 75, 128);
+}
+
+#form-param {
+    padding: 20px;
+    background-image: url(./teste\ 2.jpg);
+    display: flex;
+    opacity: 0.9;
+}
+
+#form-param .container {
+    flex: 1;
+}
+
+#form-param .buttons {
+    flex: 1;
+    position: top;
+}
+
+input {
+    padding: 2px;
+    margin: 2px;
+    width: 4%;
+}
+
+button {
+    border-radius: 2px;
+    padding: 4px;
+    float: right;
+    position: top;
+    width: 114px;
+    display: block;
+    margin: 2px;
+    cursor: pointer;
+}
+
+button:first-child {
+    background-color: rgb(103, 255, 108);
+    color: #fff;
+}
+
+
+
+
