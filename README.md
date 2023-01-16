@@ -7,4 +7,4 @@ A aplicação consiste em pesquisar sua cidade atraves de uma API fornecida no s
 OpenWeather para projetos em estudo.
 
 ## IMAGENS DA APLICAÇÃO:
-(https://github.com/Gilmarramires/NossoTempo/blob/main/imagens/photo1673909387%20(1).jpeg)
+https://github.com/Gilmarramires/NossoTempo/blob/main/imagens/photo1673909387%20(1).jpeg?raw=true
